@@ -15,4 +15,5 @@
 
 7 - git fetch baixando os commit do repositorio remoto sem afetar meu codigo local  
 
+8 - git checkout para saber a minha branch de trabalho
 
