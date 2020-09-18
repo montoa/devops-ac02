@@ -13,6 +13,6 @@
 
 6 - git push enviando de local o servidor remoto  
 
-7 - git push baixando os commit do repositorio remoto sem afetar meu codigo local  
+7 - git fetch baixando os commit do repositorio remoto sem afetar meu codigo local  
 
 
